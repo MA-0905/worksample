@@ -348,6 +348,8 @@ header {
 ```
 </details>
 
+ ソースコード引用 【[progate](https://prog-8.com/)】  
+
  CSSを編集出来たら、ビューの項目で編集した "top.html.erb"へ、更に記述を加えていきます。  
  "top.html.erb"に下記のコードを記述してみましょう。
 
